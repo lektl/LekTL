@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ... Data Science Projects
 - 🌱 I’m currently learning ... Data Science with GA
 - 👯 I’m looking to collaborate on ... Data Science
-- 🤔 I’m looking for help with ... ideas on my capstone project
+- 🤔 I’m looking for help with ... ideas for my capstone project ;)
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... tiekleong@gmail.com
 - 😄 Pronouns: ... He/Him
