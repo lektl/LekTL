@@ -1,6 +1,6 @@
 ### Here is what I'm working on! 👋
 
-
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 
 Here are some ideas to get you started:
 
