@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m currently working on ... Data Science Projects
-- 🌱 I’m currently learning ... Data Science with GA
+- 🌱 I’m currently learning ... anything to do with AI/machine learning
 - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... ideas for my capstone project ;)
+- 🤔 I’m looking for help with ... job offers related to AI/machine learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... tiekleong@gmail.com
 - 😄 Pronouns: ... He/Him
